@@ -1,7 +1,10 @@
-docupy
+Docupy
 ======
 
+
 Documentation generator that supports many languages, written in python (as the name implies) ~
+
+JUST STARTED THE PROJECT SO DON'T EXPECT A FULLY WORKING APPLICATION.
 
 DOCUPY ~._ is an application that tries to make the job of documenting
 	your code a task that does not kill you in the process. We all know
