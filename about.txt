@@ -1,0 +1,41 @@
+#	~._ DOCUPY 0.0.1b 
+#
+#	Version 0.0.1 beta		Yafet Getachew 5/2014
+#
+# About, How to use
+#
+#
+
+About :
+	DOCUPY ~._ is an application that tries to make the job of documenting
+	your code a task that does not kill you in the process. We all know
+	that the awful moment just after the great moment after finishing a 
+	project, when we realize we have to document it. Well, DOCUPY will do 
+	it for you using the comments in your source. Use the special docupy 
+	chars: 		~.   in your comments so that DOCUPY understands your code
+	and build the documentation. For more info scroll down ~._
+	
+
+
+
+The design idea :
+
+	- Flexibility and Extendibility
+	- Speed and Organization
+	- Support for all languages (except those that already have apps like this (javadoc and whatnot))
+
+Input is root directory containing text documents (source code)
+
+Currently supported are :
+	- Javascript source code
+
+~ Others on the way ;)
+
+Currently working on :
+	- support for Python source code 
+
+Bug fixes:
+	- What bugs, please e-mail me @ findyafet@gmail.com
+
+How to use :
+	
